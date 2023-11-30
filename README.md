@@ -1,9 +1,8 @@
 # cs305_module05
-This project is meant to practice GitHub Project Management. <br>
-I will collaborate with another student, Mario Zuniga.
+This project is meant to practice GitHub Project Management.
 
 ## Author
 Beatriz Ortega
 
 ## License
-This project uses Apache [License](LICENSE) 2.0.
+This project uses Apache [License](LICENSE) Version 2.0.
