@@ -2,7 +2,7 @@
 This project is meant to practice GitHub Project Management.
 
 ## Management Module
-How to manage.
+How to manage a project.
 
 ## Author
 Beatriz Ortega
